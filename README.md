@@ -1,1 +1,1 @@
-# Hankel-Transformation-Based-Brain-Tumor-Classification
+# Hankel Transformation-Based Brain Tumor Classification

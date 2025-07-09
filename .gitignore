@@ -1,0 +1,9 @@
+env
+dataset/raw_dataset/*
+dataset/processed_dataset/*
+dataset/graphs/*
+dataset/extracted_feature/*
+dataset/combined_extracted/*
+dataset/model_data/*
+clean_requirements.py
+full_requirements.txt
