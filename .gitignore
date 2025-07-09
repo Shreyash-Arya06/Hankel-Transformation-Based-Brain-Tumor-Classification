@@ -7,3 +7,4 @@ dataset/combined_extracted/*
 dataset/model_data/*
 clean_requirements.py
 full_requirements.txt
+src/__pycache__
